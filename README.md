@@ -64,6 +64,16 @@ Contributions are welcome! If you'd like to contribute to My Portfolio, please f
 4.	Push to the branch: git push origin my-feature
 5.	Open a pull request.
 
+   Challenges 
+   
+. _Challenge 1_: Responsive design across different devices.
+
+- _Solution_: I used CSS media queries and responsive design techniques to ensure that the portfolio website looks and functions well on different screen sizes.
+  ._Challenge 2_ Scrollup
+  solultion :i used window.eventListener
+
+_Challenge 3_ Scroll Down
+Solution Still i'm working it
 
 
 
