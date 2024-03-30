@@ -28,6 +28,19 @@ installation
 
 cd Personal-Portofolio
 
+install the projects dependencies:
+   npm install
+
+####Running the Application
+npm run dev
+you can access the portfolio by navigating to http://localhost:5173/ in your browser.
+
+
+
+
+
+
+
 3. install the projects dependencies:
    npm install
 
