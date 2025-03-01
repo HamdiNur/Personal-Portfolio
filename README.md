@@ -49,6 +49,9 @@ Once the dependencies are installed, you can start the portfolio website by runn
 you can access the portfolio by navigating to   http://localhost:5173/ in your browse
 
 
+## Deployment Link
+https://portofolio-wheat-psi-53.vercel.app/
+
 Usage
 
 Once you have successfully installed and launched the project on your local machine, you can easily navigate through various sections of the portfolio using the provided navigation menu.
