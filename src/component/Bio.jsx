@@ -20,11 +20,12 @@ const Bio = () => {
         <img src={AboutImg} alt="" className="about__img" />
          <div className="about__data">
          <Info />
-         <p className="about__description">Frontend developer,
-          I create web pages with UI / UX user interface,  
-        I have one  years of experience and have a long journey toward programming .</p>
-         
-            <a download="" href={CV} className="button
+<p className="about__description">
+  I'm <strong>Hamdi Nur</strong>, a Full-Stack Developer from Mogadishu, Somalia.  
+  I build responsive, scalable web and mobile applications using modern technologies like React.js, Next.js, Node.js, Flutter, and MongoDB.  
+  Over the past year, I have developed <strong>15+ projects</strong> ranging from e-commerce websites to real-time apps.  
+  I am passionate about solving real-world problems through technology, continuously learning new skills, and delivering high-quality software solutions.
+</p>            <a download="" href='/Hamdi_Nur_CV.pdf' className="button
              button--flex">Download CV
             <svg
                 class="button__icon"
