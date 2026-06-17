@@ -23,7 +23,7 @@ const Bio = () => {
 <p className="about__description">
   I'm <strong>Hamdi Nur</strong>, a Full-Stack Developer from Mogadishu, Somalia.  
   I build responsive, scalable web and mobile applications using modern technologies like React.js, Next.js, Node.js, Flutter, and MongoDB.  
-  Over the past year, I have developed <strong>15+ projects</strong> ranging from e-commerce websites to real-time apps.  
+  Over the past year, I have developed <strong>25+ projects</strong> ranging from e-commerce websites to real-time apps.  
   I am passionate about solving real-world problems through technology, continuously learning new skills, and delivering high-quality software solutions.
 </p>            <a download="" href='/Hamdi_Nur_CV.pdf' className="button
              button--flex">Download CV
